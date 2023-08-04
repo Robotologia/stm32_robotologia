@@ -2,18 +2,18 @@
   "packages":
   [
     {
-      "name": "robohat",
-      "maintainer": "Robotics Masters",
+      "name": "robotologia",
+      "maintainer": "Robotologia",
       "websiteURL": "https://roboticsmasters.co",
       "email" : "techsupport@roboticsmasters.co",
       "platforms":
       [
         {
-          "name": "Robo HAT Boards",
+          "name": "Robotologia",
           "architecture": "samd",
           "version": "0.0.26",
           "category": "Contributed",
-          "url": "https://github.com/robotics-masters/mm1-hat-arduino/blob/master/custom_board/RoboHat-0.0.26.zip?raw=true",
+          "url": "https://github.com/Robotologia/stm32_robotologia/blob/main/RoboHat-0.0.26.zip?raw=true",
           "archiveFileName": "RoboHat-0.0.26.zip",
           "checksum": "SHA-256:1927B1B20B0FFA36D1F1BFBA028F90756CEE82B42227C898417ABCFA56ADC6F6",
           "size": "8773152",
